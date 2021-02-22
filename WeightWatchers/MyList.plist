@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Apple</key>
+	<array>
+		<string>a fruit</string>
+		<string>a tech firm</string>
+	</array>
+	<key>Table</key>
+	<array>
+		<string>an object</string>
+		<string>contains rows and columns when used in context of computers</string>
+	</array>
+	<key>Orange</key>
+	<array>
+		<string>a fruit</string>
+	</array>
+</dict>
+</plist>
