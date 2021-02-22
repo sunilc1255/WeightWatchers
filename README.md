@@ -4,8 +4,8 @@
 **IDE** :- XCode
 
 **How to Run**:- 
-Open WeightWatchers.xcodeproj in an Xcode
-Choose any iOS simulator and launch the app
+Open WeightWatchers.xcodeproj in an Xcode \n
+Choose any iOS simulator and launch the app \n
 The Home Screen will contains, two buttons. i.e., Question-1 and Question-3
 By Clicking on Question-1 will take you to another screen with two buttons. i.e., "Does File Exists?" and "Print O/P"
 Clicking on "Does File Exists" will display an alert about existing of "MyFile.plist" file in root folder. Change the file name to verify this functionality. 
