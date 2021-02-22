@@ -27,3 +27,16 @@ This class contains the following methods, <br />
 
 **@generateRandomNumber** :-  This method will generate the 500 random numbers and add them in an array <br />
 **@findSmallestNth** :- This method will take the input as randomGeneratedNumbers array and nth integert value and returns the nth smallest integer value<br />
+
+**Screenshots**:-  <br />
+
+<img src="https://github.com/sunilc1255/WeightWatchers/blob/main/MainScreen.png" width="150">
+<img src="https://github.com/sunilc1255/WeightWatchers/blob/main/Question-1.png" width="150">
+<img src="https://github.com/sunilc1255/WeightWatchers/blob/main/FileExtsis.png" width="150">
+<img src="https://github.com/sunilc1255/WeightWatchers/blob/main/TextFieldValidation.png" width="150">
+<img src="https://github.com/sunilc1255/WeightWatchers/blob/main/smallestNumberO:P.png" width="150">
+
+
+
+
+
